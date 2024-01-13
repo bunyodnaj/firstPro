@@ -1,0 +1,10 @@
+[
+	{ "keys": ["f", "f"], "command": "exit_insert_mode",
+    "context":
+    [
+        { "key": "setting.command_mode", "operand": false },
+        { "key": "setting.is_widget", "operand": false }
+    ]
+	},
+	{"keys": ["s","s"], "command": "save"}
+]
